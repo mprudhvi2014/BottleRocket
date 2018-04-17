@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BottleRocket</string>
+    <string name="title_activity_store_details">StoreDetailsActivity</string>
+</resources>
